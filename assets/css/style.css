@@ -778,7 +778,6 @@ a.btn.btn-mini:hover {
 }
 .post-content img {
   max-width: 100%;
-  margin: 0 auto;
 }
 .post-content .mejs-container {
   margin-top: 12.5px;
@@ -1028,6 +1027,7 @@ div.posts div.item .post-content h3 {
 }
 div.posts div.item .post-content img {
   max-width: 100%;
+  margin: 0, auto;
 }
 div.posts div.item .post-content .mejs-container {
   margin-top: 12.5px;
