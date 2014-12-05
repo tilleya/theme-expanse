@@ -641,9 +641,16 @@ a.btn.btn-mini:hover {
   background-color: #636363;
 }
 .post {
-  display: block;
-  clear: both;
-  padding: 125px 0 0 0;
+  {
+    width: 403px;
+    padding: 3px;
+    border: 1px #c3cce0 solid;
+    border-radius: 3px;
+    background: white;
+    margin-bottom: 20px;
+    
+    position: relative;
+}
 }
 .post a {
   text-decoration: none;
@@ -943,7 +950,7 @@ div.posts div.item p.post-preview {
 }
 div.posts div.item .post-content {
   display: block;
-  /* find this in _assets/less/elements.less */
+  border: 1px solid black
 }
 div.posts div.item .post-content ul,
 div.posts div.item .post-content ol,
