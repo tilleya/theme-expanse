@@ -1,4 +1,4 @@
-theme-expanse
+theme-expanse for tilley.postach.io
 =============
 
 The official repository for our default theme, Expanse. Fork this to use it as a boilerplate.
