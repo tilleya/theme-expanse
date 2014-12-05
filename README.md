@@ -9,7 +9,7 @@ This theme uses LESS for CSS precompiling, and it uses Gulp for compiling the LE
 
 _Note: You do not need LESS and Gulp to use this theme, you can just edit the CSS directly if you like. LESS and Gulp are for advanced users._
 
-### 1) Install Node Modules
+### 1) Install Node Modules K?
 
 Run the following command in Terminal to install Gulp for LESS preprocessing.
 ```
