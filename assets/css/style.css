@@ -74,7 +74,7 @@ h4 {
   color: #0e3029;
   padding: 0 0 50px 0;
   font-family: 'Roboto';
-  font-weight: 300;
+  font-weight: 100;
 }
 h1 {
   font-size: 3rem;
@@ -214,7 +214,7 @@ header .shadow {
   height: 225px;
 }
 header .shadow.top {
-  top: -155px;
+  top: -55px;
   background: transparent;
   background: -webkit-gradient(linear, left bottom, left top, color-stop(0, transparent), color-stop(1, #000000));
   background: -ms-linear-gradient(bottom, transparent, #000000);
@@ -268,9 +268,8 @@ header h1 {
   font-family: 'Roboto';
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 1.75rem;
+  font-size: 4.75rem;
   color: #ffffff;
-  float: left;
   width: 50%;
   margin: 0;
   padding: 0;
