@@ -214,7 +214,7 @@ header .shadow {
   height: 225px;
 }
 header .shadow.top {
-  top: -55px;
+  top: -155px;
   background: transparent;
   background: -webkit-gradient(linear, left bottom, left top, color-stop(0, transparent), color-stop(1, #000000));
   background: -ms-linear-gradient(bottom, transparent, #000000);
